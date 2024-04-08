@@ -1,0 +1,15 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/vu/dot
+- /home/vu/Projects/wisory/backoffice-frontend
+- /home/vu/Projects/wisory/wisory-backend
+startuppopupversion: 5
+lastversion: 0.41.0
+customcommandshistory: []
+hidecommandlog: false
+ignorewhitespaceindiffview: true
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
